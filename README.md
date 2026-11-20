@@ -1,5 +1,6 @@
 # Plotting-MMM-Distance-Distributions
 A Python script for plotting and comparing distance distributions obtained from MMM simulations.
+https://doi.org/10.5281/zenodo.24398218
 
 **Features**
 Supports any number of MMM distance distribution datasets.
